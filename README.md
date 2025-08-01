@@ -1,5 +1,5 @@
  <p align="center" style="margin-bottom: 1px;">
-  <img src="plush.png" alt="plush.png" width="100%" style="max-height: 100px; object-fit: cover;"/>
+  <img src="" alt="" width="100%" style="max-height: 100px; object-fit: cover;"/>
  <p
 
 ## JavaScript
