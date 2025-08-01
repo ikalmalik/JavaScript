@@ -4,8 +4,8 @@
 
 
 # *Welcome Guys*
-**``Created by Abd Malik``**
-<br /> Copyright (c) MIT License
+**``Copyright (c) Abd Malik A Madinu``**
+<br /> MIT License
 
 # **JavaScript**
 Comprehensive Hydrometeorological and Environmental Analysis with JavaScript: Modeling, Prediction, Evaluation, and Monitoring
